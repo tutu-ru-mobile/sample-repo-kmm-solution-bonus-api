@@ -3,7 +3,7 @@ package com.sample
 import androidx.compose.runtime.Composable
 
 
-interface SolutionBonusApiAndroid {
+interface SolutionBonusAndroidApi {
     @Composable
     fun renderBonusesAndRefillButton()
 
